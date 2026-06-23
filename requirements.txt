@@ -1,0 +1,18 @@
+# Core
+numpy
+pandas
+
+# Audio
+librosa
+torchaudio
+
+# Deep Learning
+torch
+
+# Visualization
+matplotlib
+seaborn
+
+# ML utilities
+scikit-learn
+tqdm
